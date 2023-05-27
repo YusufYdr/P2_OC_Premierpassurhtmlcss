@@ -6,15 +6,15 @@
   --drak-grey-color: #4B4B4B; /* var(--drak-grey-color) */
 }
 
-body {
+.body {
 	margin: 0;
 	display: flex;
 	justify-content: center;
 }
 
 .container {
-	min-width: 992px;
-	max-width: 1440px;
+	min-width: 1440px;
+	max-width: 2366px;
 }
 
 h2, 
@@ -186,3 +186,4 @@ p {
 	font-weight: 800;
 	border-width: 3px;
 }
+
